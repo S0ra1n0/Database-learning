@@ -31,8 +31,8 @@
         <mxCell id="zlSav1S6RH9fUCJDbTSG-6" value="(0,n)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zlSav1S6RH9fUCJDbTSG-7" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="90" width="80" height="30" as="geometry" />
+        <mxCell id="zlSav1S6RH9fUCJDbTSG-7" value="(1,n)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
